@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
       <h1 className="text-2xl font-bold text-center">NeuroNest AI</h1>
         <p className="text-sm text-gray-300 mb-4">
-         Helpmate AI has been selected for the Gemini API Developer Competition and is recognized by Google AI.
+         Neuronest is an AI-powered mental wellness assistant designed to provide supportive conversations, emotional check-ins, and self-care guidance anytime you need it.
         </p>
         <div className="flex justify-center space-x-4 mb-3">
           <a
@@ -23,7 +23,7 @@ const Footer = () => {
             <FaRocket className="mr-1" /> Vote Now
           </a>
         </div>
-        <p className="text-xs text-gray-500">&copy; 2025 HelpMate AI. All rights reserved.</p>
+        <p className="text-xs text-gray-500">PROJECT DONE BY KISHORE H, BHUVANESH B and CHARAN C.</p>
       </div>
     </footer>
   );
