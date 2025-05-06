@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-rgb(16, 25, 46) text-white py-4 text-center shadow-lg w-full">
       <div className="container mx-auto px-4">
-      <h1 className="text-2xl font-bold text-center">Neuro AI</h1>
+      <h1 className="text-2xl font-bold text-center">NeuroNest AI</h1>
         <p className="text-sm text-gray-300 mb-4">
          Neuronest is an AI-powered mental wellness assistant designed to provide supportive conversations, emotional check-ins, and self-care guidance anytime you need it.
         </p>
