@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-rgb(16, 25, 46) text-white py-4 text-center shadow-lg w-full">
       <div className="container mx-auto px-4">
-      <h1 className="text-2xl font-bold text-center">Helpmate AI</h1>
+      <h1 className="text-2xl font-bold text-center">NeuroNest AI</h1>
         <p className="text-sm text-gray-300 mb-4">
          Helpmate AI has been selected for the Gemini API Developer Competition and is recognized by Google AI.
         </p>
