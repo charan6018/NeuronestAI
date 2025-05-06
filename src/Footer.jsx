@@ -8,7 +8,7 @@ const Footer = () => {
         <p className="text-sm text-gray-300 mb-4">
          Neuronest is an AI-powered mental wellness assistant designed to provide supportive conversations, emotional check-ins, and self-care guidance anytime you need it.
         </p>
-        <p className="text-sm text-gray-300 mb-4">PROJECT DONE BY KISHORE H, BHUVANESH B and CHARAN C GUIDED BY Mrs.LAKSHMI R.</p>
+        <p className="text-sm text-gray-300 mb-4">Project Done by KISHORE H, BHUVANESH B and CHARAN C Guided by Mrs.LAKSHMI R.</p>
       </div>
     </footer>
   );
